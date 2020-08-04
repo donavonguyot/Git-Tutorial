@@ -10,6 +10,11 @@ import SwiftUI
 
 let message = "Hello Donavon"
 
+
+func reverse(text: String) -> String {
+    return String(text.reversed())
+}
+
 struct ContentView: View {
     var body: some View {
         Text(message)
