@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-let message = "Hello Doonavon"
+let message = "Hello Donavon"
 
 struct ContentView: View {
     var body: some View {
